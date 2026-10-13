@@ -1,0 +1,22 @@
+|--- Asistencia <= 96.96
+|   |--- Promedio <= 9.32
+|   |   |--- Promedio <= 8.83
+|   |   |   |--- Promedio <= 7.45
+|   |   |   |   |--- Carrera_TECNICATURA SUPERIOR EN CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL <= 0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- Carrera_TECNICATURA SUPERIOR EN CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- Promedio >  7.45
+|   |   |   |   |--- DistanciaKm <= 3.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- DistanciaKm >  3.50
+|   |   |   |   |   |--- class: 1
+|   |   |--- Promedio >  8.83
+|   |   |   |--- class: 0
+|   |--- Promedio >  9.32
+|   |   |--- Edad <= 29.50
+|   |   |   |--- class: 0
+|   |   |--- Edad >  29.50
+|   |   |   |--- class: 1
+|--- Asistencia >  96.96
+|   |--- class: 0
