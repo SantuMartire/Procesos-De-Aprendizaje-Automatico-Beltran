@@ -1,4 +1,0 @@
-
-
-
-#Viviendas habitadas por jurisdicción
